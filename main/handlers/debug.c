@@ -26,7 +26,7 @@ void printDeviceInfo() {
 #elif (CONFIG_SCENARIO == 2)
   otLogNotePlat("This device is the air quality monitor.");
 #else
-  otLogNotePlat("This device is the kitchen window motion sensor.");
+  otLogNotePlat("This device is the second story door motion sensor.");
 #endif
   return;
 }
