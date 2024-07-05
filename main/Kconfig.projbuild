@@ -40,5 +40,5 @@ menu "OpenThread Deep Sleep Sender"
       help
           Enter "1" if the device simulates the motion sensor at the front door.
           Enter "2" if the device simulates the air quality monitor in the bedroom.
-          Enter "3" if the device simulates the motion sensor at the second story back door.
+          Enter "3" if the device simulates the motion sensor at the back door.
 endmenu
